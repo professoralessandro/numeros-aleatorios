@@ -1,0 +1,14 @@
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.exe
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.deps.json
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.runtimeconfig.json
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.runtimeconfig.dev.json
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.dll
+C:\Users\profe\source\repos\SorteioAleatorio\bin\Debug\netcoreapp3.1\SorteioAleatorio.pdb
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.Form1.resources
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.AssemblyInfoInputs.cache
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.AssemblyInfo.cs
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.dll
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.pdb
+C:\Users\profe\source\repos\SorteioAleatorio\obj\Debug\netcoreapp3.1\SorteioAleatorio.genruntimeconfig.cache
